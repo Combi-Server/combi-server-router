@@ -24,7 +24,7 @@ request router. Refer to the documentation of that for more details. To summaris
 * router.method(VERB): Enable a HTTP verb on this router. By default, GET and POST
     already exists, as does ALL (Catch all for all methods). VERB is case insensitive,
     will be uppercased, and routes can be added to it with the following method
-* router.[verb](path, handler): Add a route for the specified (lower case) verb at the
+* router.\[verb\](path, handler): Add a route for the specified (lower case) verb at the
     given path. Sections of the URL can be parametised by prefixing them with a colon.
     The path can also be a regular expression, although capture groups will not add
     parameters.
