@@ -1,6 +1,6 @@
 {
   "name": "combi-server-router",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A request router made for the combi-server framework",
   "main": "index.js",
   "dependencies": {
@@ -9,7 +9,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Commander-lol/combi-server-router.git"
+    "url": "git+https://github.com/Combi-Server/combi-server-router.git"
   },
   "keywords": [
     "Router",
@@ -19,7 +19,7 @@
   "author": "Louis Capitanchik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Commander-lol/combi-server-router/issues"
+    "url": "https://github.com/Combi-Server/combi-server-router/issues"
   },
-  "homepage": "https://github.com/Commander-lol/combi-server-router#readme"
+  "homepage": "https://github.com/Combi-Server/combi-server-router#readme"
 }
